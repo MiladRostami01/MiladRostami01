@@ -1,11 +1,11 @@
-##Hi there | I'm Milad Rostami 👋
-
+<h2>
+ Hi there | I'm Milad Rostami 👋
+</h2>
+<p >
+ A junior Front-end developer that love to learn more and more ✌
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladRostami01&show_icons=true&theme=dark)
-
-<p align="center">
- A junior Front-end developer and UI Designer but Progress at work is the priority in my life ✌
-</p>
 
 - 🌱 I’m currently learning React.js ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 💬 Ask me about Forntend 
