@@ -2,7 +2,7 @@
  Hi there | I'm Milad Rostami 👋
 </h2>
 <p >
- A junior Front-end developer that love to learn more and more ✌
+ A Front-end developer that love to learn more and more ✌
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladRostami01&show_icons=true&theme=dark)
